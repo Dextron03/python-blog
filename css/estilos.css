@@ -30,9 +30,9 @@ header {
     height: 600px;
     background: #4964ff;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(240, 95%, 50%, 0.459), hsla(240, 88%, 51%, 0.664)), url(../img/chris-ried-ieic5Tq8YMk-unsplash.jpg);
+    background: -webkit-linear-gradient(to right, hsla(240, 95%, 50%, 0.459), hsla(240, 88%, 51%, 0.664)), url(../img/python.gif);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(240, 95%, 50%, 0.459), hsla(240, 88%, 51%, 0.664)), url(../img/chris-ried-ieic5Tq8YMk-unsplash.jpg);
+    background: linear-gradient(to right, hsla(240, 95%, 50%, 0.459), hsla(240, 88%, 51%, 0.664)), url(../img/python.gif);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
@@ -167,7 +167,7 @@ main .sobre-nosotros{
 }
 
 .hover-galeria img{
-    width: 50px;
+    width: 350px;
 }
 
 .hover-galeria p{
